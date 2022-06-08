@@ -2,6 +2,6 @@
     width: 15%;
     margin: auto;
     display : flex;
-    flex-direction: column;
-    gap : 10px;
+  margin-right: 10px;
+   
 }
